@@ -1,0 +1,71 @@
+name: challengers
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_swiper: any
+  firebase_auth: any
+  # flutter_facebook_login: ^1.1.1
+  shared_preferences: any
+  cloud_firestore: ^0.13.6
+  intl: any
+  carousel_slider: ^1.3.0
+  sliding_up_panel: any
+  cached_network_image: any
+  smooth_page_indicator: any
+  # fit_kit: ^1.1.1
+  audioplayers: any
+  video_player: ^0.10.8+1
+  mailer: ^3.0.3
+  table_calendar: ^2.2.2
+  dropdownfield: ^1.0.3
+  firebase_database: ^3.1.6
+  cupertino_icons: ^1.0.2
+  polygon_clipper: ^1.0.2
+  material_design_icons_flutter: ^4.0.5145
+  uuid:
+  url_launcher: ^5.4.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons:
+
+flutter_icons:
+  image_path: "assets/logo.png"
+  android: true
+  ios: true
+  web: true
+  windows: true
+  macos: true
+  linux: true
+
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - assets/music/
+    - assets/images/
+
+  fonts:
+    - family: HK Grotesk
+      fonts:
+        - asset: assets/fonts/hk-grotesk.bold.ttf
+    - family: Xbka
+      fonts:
+        - asset: assets/fonts/Xbka.otf
+    - family: Comic
+      fonts:
+        - asset: assets/fonts/COMIC.TTF

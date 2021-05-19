@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1010559070227",
+    "firebase_url": "https://challengers-6b57c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "challengers-6b57c",
+    "storage_bucket": "challengers-6b57c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010559070227:android:cbf06c78888cd147b74fe6",
+        "android_client_info": {
+          "package_name": "com.safvanp.challengers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010559070227-h9a5bgjcrpo19d7l2pfi2nm1q0h83aa5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvWm7Mb8OVg4V2TUYKvO0SgKhkVF7-Rq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010559070227-h9a5bgjcrpo19d7l2pfi2nm1q0h83aa5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
