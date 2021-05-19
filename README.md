@@ -1,2 +1,0 @@
-# challengers
-bla bla bla
